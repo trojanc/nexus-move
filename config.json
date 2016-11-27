@@ -1,0 +1,8 @@
+{
+  "source" :{
+    "baseurl" : "http://nexus.domain.co.za/nexus"
+  },
+  "destination" : {
+    "baseurl" : "http://nexus.domain.co.za/nexus"
+  }
+}
